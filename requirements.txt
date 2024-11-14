@@ -1,5 +1,4 @@
 os
 re
-numpy
-json
+"pinecone[grpc]"
 sentence-transformers
