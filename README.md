@@ -10,3 +10,4 @@ https://python.langchain.com/docs/tutorials/chatbot/
 Registrase en https://www.pinecone.io/
 
 ## Guía Pinecone
+https://docs.pinecone.io/guides/get-started/quickstart

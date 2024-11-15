@@ -1,4 +1,4 @@
 os
 re
 "pinecone[grpc]"
-sentence-transformers
+time
